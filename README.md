@@ -3,5 +3,5 @@ BBK kodu ile Altyapı Sorgulaması yapma ve Sorgulanan BBK kodunu bbk_codes.json
 
 Pythonda yüklemeniz gereken kütüphaneler.
 
-pip install PyQt5
+pip install PyQt5,
 pip install requests
