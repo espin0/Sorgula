@@ -1,0 +1,2 @@
+# Sorgula
+Altyapı Sorgulama,
