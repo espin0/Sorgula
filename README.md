@@ -6,4 +6,4 @@ Pythonda yüklemeniz gereken kütüphaneler.
 pip install PyQt5,
 pip install requests
 
-![resim1](https://github.com/user-attachments/assets/e22a2be2-914a-4019-8fc9-33af62e5a941)
+![resim1](https://github.com/user-attachments/assets/af405d43-641f-4181-b054-8f1a2b9cd01a)
