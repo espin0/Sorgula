@@ -5,3 +5,4 @@ Pythonda yüklemeniz gereken kütüphaneler.
 
 pip install PyQt5,
 pip install requests
+
